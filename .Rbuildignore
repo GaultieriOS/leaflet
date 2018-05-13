@@ -1,0 +1,16 @@
+^.*\.Rproj$
+^\.Rproj\.user$
+^\.travis\.yml$
+^inst/csv
+^inst/examples
+^inst/htmlwidgets/sources
+\.bower\.json$
+\.bowerrc$
+^docs/
+^\.eslintrc\.json$
+^Gruntfile\.js$
+^javascript$
+^package\.json$
+^node_modules$
+
+^data-raw$
